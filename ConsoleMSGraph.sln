@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMSGraph", "ConsoleMSGraph.csproj", "{407B039B-6CCA-4B76-859C-858C1E7832C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407B039B-6CCA-4B76-859C-858C1E7832C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407B039B-6CCA-4B76-859C-858C1E7832C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407B039B-6CCA-4B76-859C-858C1E7832C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407B039B-6CCA-4B76-859C-858C1E7832C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2072E194-AA74-4EA4-B5EE-20558B8FBC48}
+	EndGlobalSection
+EndGlobal
